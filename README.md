@@ -1,0 +1,14 @@
+# rss_feed
+Download Medium, packetStorm, Cxsecurity latest feeds simply By Setting Your Telegram Bot Api to it and your rss category and also the website link
+
+YOU SHOULD JUST ADD YOUR TELEGROM BOT API TO IT AND I MARKED IT 
+YOUR WEBSITE LINK 
+YOUR RSS FEED LINK OF THE WEBSITE
+
+AND CUSTOMIZE THE MESSAGE THAT YOUR ARE RECEIVING FROM THE TELEGROM BOT 
+
+I MARKED THEM ALL JUST REMOVE THE {{}} AND JUST SET NEEDED STRING
+
+
+
+CODED BY Uz3er
